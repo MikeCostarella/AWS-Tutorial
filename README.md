@@ -93,11 +93,17 @@
 
 1. **AWS Elastic Beanstalk**
 
-- streamlines environment provisioning and management.
+- fully managed service that streamlines the deployment, management, and scaling of web applications.
+- automatically handles the provisioning of infrastructure, scaling, load balancing, and application health monitoring.
+- supports various programming languages and frameworks, such as Java, .NET, Python, Node.js, Docker, and more.
+- provides full control over the underlying AWS resources while automating many operational tasks.
+- Good for deploying and managing web applications, RESTful APIs, mobile backend services, and microservices architectures, with automated scaling and simplified infrastructure management
 
 2. **AWS Batch**
 
-- manages large-scale computing tasks and automatically adjusts resources based on demand.
+- fully managed service that you can use to run batch computing workloads on AWS.
+- automatically schedules, manages, and scales compute resources for batch jobs, optimizing resource allocation based on job requirements.
+- Good for: Processing large-scale, parallel workloads in areas like scientific computing, financial risk analysis, media transcoding, big data processing, machine learning training, and genomics research
 
 3. **Amazon Lightsail**
 
