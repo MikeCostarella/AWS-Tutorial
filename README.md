@@ -91,14 +91,18 @@
 
 ## Additional Compute Services
 
-- **AWS Elastic Beanstalk**
-  -- streamlines environment provisioning and management.
+1. **AWS Elastic Beanstalk**
 
-- **AWS Batch**
-  -- manages large-scale computing tasks and automatically adjusts resources based on demand.
+- streamlines environment provisioning and management.
 
-- **Amazon Lightsail**
-  -- streamlines web application setup and management without the need for complex infrastructure.
+2. **AWS Batch**
 
-- **AWS Outposts**
-  -- extends AWS services to on-premises environments, supporting hybrid cloud architectures.
+- manages large-scale computing tasks and automatically adjusts resources based on demand.
+
+3. **Amazon Lightsail**
+
+- streamlines web application setup and management without the need for complex infrastructure.
+
+4. **AWS Outposts**
+
+- extends AWS services to on-premises environments, supporting hybrid cloud architectures.
