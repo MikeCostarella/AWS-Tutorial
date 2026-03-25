@@ -103,12 +103,18 @@
 
 - fully managed service that you can use to run batch computing workloads on AWS.
 - automatically schedules, manages, and scales compute resources for batch jobs, optimizing resource allocation based on job requirements.
-- Good for: Processing large-scale, parallel workloads in areas like scientific computing, financial risk analysis, media transcoding, big data processing, machine learning training, and genomics research
+- Good for processing large-scale, parallel workloads in areas like scientific computing, financial risk analysis, media transcoding, big data processing, machine learning training, and genomics research
 
 3. **Amazon Lightsail**
 
 - streamlines web application setup and management without the need for complex infrastructure.
+- a cloud service offering virtual private servers (VPSs), storage, databases, and networking at a predictable monthly price.
+- ideal for small businesses, basic workloads, and developers seeking a straightforward AWS experience without the complexity of the full AWS Management Console.
+- Good for basic web applications, low-traffic websites, development and testing environments, small business websites, blogs, and learning cloud services.
 
 4. **AWS Outposts**
 
 - extends AWS services to on-premises environments, supporting hybrid cloud architectures.
+- fully managed hybrid cloud solution that extends AWS infrastructure and services to on-premises data centers.
+- provides a consistent experience between on premises and the AWS Cloud, offering compute, storage, and networking components.
+- Good for low-latency applications, data processing in remote locations, migrating and modernizing legacy applications, and meeting regulatory compliance or data residency requirements
