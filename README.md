@@ -72,9 +72,12 @@
 1. **Amazon EC2**
    - Customer manages the VMs that run containers.
    - Full control, but requires managing underlying infrastructure.
+   - container images follow Open Container Initiative (OCI) standards
+   - can push, pull, and manage images in your Amazon ECR repositories using standard container tooling and command line interfaces (CLIs)
 2. **AWS Fargate**
    - **Serverless**, efficient, and convenient.
    - AWS manages the servers; customer only manages the containers.
+   - works with both Amazon ECS and Amazon EKS
 
 ---
 
