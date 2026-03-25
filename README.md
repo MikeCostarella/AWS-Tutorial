@@ -6,8 +6,8 @@
 
 ## Amazon Elastic Compute Cloud (Amazon EC2)
 
-- Virtual machines.
-- **Unmanaged service**: Provides full control over virtual machines.
+- Virtual machines
+- Unmanaged Service: - Provides full control over virtual machines.
 - **Customer Responsibility**:
   - Setup
   - Securing
@@ -18,18 +18,18 @@
 ## Managed Services
 
 - **Elastic Load Balancing (ELB)**
+
 - **Simple Queue Service (SQS)**
+
 - **Simple Notification Service (SNS)**
 
 ## AWS Lambda
 
 - **Serverless**: No access to underlying infrastructure.
 
-## AWS Identity and Access Management (IAM)
+## AWS Identity & Access Management (IAM)
 
 - Manage roles and permissions.
-
----
 
 ## Containers
 
@@ -49,13 +49,13 @@
 - Scalable container orchestration service.
 - Runs and manages containers; streamlined and integrated.
 - Uses a fully managed Docker registry to store container images.
-- **ECS Launch Types**:
+- ECS Launch Types
   1. **ECS with EC2**: Small-to-medium businesses needing full control over infrastructure or specific hardware/networking.
   2. **ECS with Fargate**: For startups or small teams; serverless, auto-scaling, and orchestration for variable traffic.
 
 #### Amazon Elastic Kubernetes Service (Amazon EKS)
 
-- Fully managed service for running **Kubernetes** on AWS.
+- Fully managed service running Kubernetes on AWS.
 - Open-source platform; provides more control and flexibility for large-scale or hybrid deployments.
 - **EKS Launch Types**:
   1. **EKS with EC2**: Best for enterprises needing full infrastructure control and Kubernetes scalability.
