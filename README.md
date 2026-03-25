@@ -2,7 +2,7 @@
 
 ## Virtual Machine
 
-- Use **hypervisor** to run full, separate operating systems.
+- Uses **hypervisor** to run full, separate operating systems.
 
 ## Amazon Elastic Compute Cloud (Amazon EC2)
 
