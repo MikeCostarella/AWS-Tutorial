@@ -89,6 +89,16 @@
 3. Choose an orchestration service (**ECS** or **EKS**).
 4. Select a compute option (**EC2** or **Fargate**).
 
-## Orchestration Tools
+## Additional Compute Services
 
 - **AWS Elastic Beanstalk**
+  -- streamlines environment provisioning and management.
+
+- **AWS Batch**
+  -- manages large-scale computing tasks and automatically adjusts resources based on demand.
+
+- **Amazon Lightsail**
+  -- streamlines web application setup and management without the need for complex infrastructure.
+
+- **AWS Outposts**
+  -- extends AWS services to on-premises environments, supporting hybrid cloud architectures.
