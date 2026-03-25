@@ -64,6 +64,7 @@
 #### Amazon Elastic Container Registry (Amazon ECR)
 
 - Fully managed Docker container registry for storing container images.
+- Stores, manages, and deploys Open Container Initiative (OCI)-compliant container images
 
 ---
 
