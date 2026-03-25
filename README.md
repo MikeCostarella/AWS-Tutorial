@@ -93,6 +93,9 @@
 
 1. **AWS Elastic Beanstalk**
 
+- simplifed provisioning
+- configuration management
+- visibility and control
 - fully managed service that streamlines the deployment, management, and scaling of web applications.
 - automatically handles the provisioning of infrastructure, scaling, load balancing, and application health monitoring.
 - supports various programming languages and frameworks, such as Java, .NET, Python, Node.js, Docker, and more.
@@ -101,12 +104,18 @@
 
 2. **AWS Batch**
 
+- takes care of infrastructure management
+- provides parallel processing support
+- automatically scales
 - fully managed service that you can use to run batch computing workloads on AWS.
 - automatically schedules, manages, and scales compute resources for batch jobs, optimizing resource allocation based on job requirements.
 - Good for processing large-scale, parallel workloads in areas like scientific computing, financial risk analysis, media transcoding, big data processing, machine learning training, and genomics research
 
 3. **Amazon Lightsail**
 
+- simple
+- cost effective
+- managed infrastructure
 - streamlines web application setup and management without the need for complex infrastructure.
 - a cloud service offering virtual private servers (VPSs), storage, databases, and networking at a predictable monthly price.
 - ideal for small businesses, basic workloads, and developers seeking a straightforward AWS experience without the complexity of the full AWS Management Console.
@@ -114,6 +123,7 @@
 
 4. **AWS Outposts**
 
+- supports hybrid cloud solutions
 - extends AWS services to on-premises environments, supporting hybrid cloud architectures.
 - fully managed hybrid cloud solution that extends AWS infrastructure and services to on-premises data centers.
 - provides a consistent experience between on premises and the AWS Cloud, offering compute, storage, and networking components.
