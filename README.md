@@ -133,10 +133,6 @@
 - provides a consistent experience between on premises and the AWS Cloud, offering compute, storage, and networking components.
 - Good for low-latency applications, data processing in remote locations, migrating and modernizing legacy applications, and meeting regulatory compliance or data residency requirements
 
-## AWS Edge Locations
-
-- cache items like images, videos, and other resources, so that users can access the content they need with lower latency.
-
 ## AWS CloudFormation
 
 - helps automate the deployment of your cloud resources
@@ -170,3 +166,25 @@
 - Tax laws and regulations can also play a role in cost.
 - Some Regions might offer tax incentives or have lower tax rates.
 - data sovereignty laws in certain Regions might require data to be stored locally
+
+## Building Redundant Architectures
+
+## AWS Edge Locations
+
+- cache items like images, videos, and other resources, so that users can access the content they need with lower latency.
+- part of Amazon Global Edge Network.
+- seperate from Regions
+- designed to accelerate content delivery.
+- host other Amazon services like:
+
+1. AWS Global Accelerator
+2. Amazon Route 53 (Domain Name System)
+3. AWS Outposts
+
+- allows AWS services to run on premises
+
+## Amazon CloudFront
+
+- Content Delivery Network (CDN)
+- designed to deliver content as close to the user as possible.
+- uses Edge Locations
