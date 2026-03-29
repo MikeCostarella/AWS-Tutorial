@@ -180,8 +180,7 @@
 1. AWS Global Accelerator
 2. Amazon Route 53 (Domain Name System)
 3. AWS Outposts
-
-- allows AWS services to run on premises
+   - allows AWS services to run on premises
 
 ## Amazon CloudFront
 
