@@ -132,3 +132,23 @@
 - fully managed hybrid cloud solution that extends AWS infrastructure and services to on-premises data centers.
 - provides a consistent experience between on premises and the AWS Cloud, offering compute, storage, and networking components.
 - Good for low-latency applications, data processing in remote locations, migrating and modernizing legacy applications, and meeting regulatory compliance or data residency requirements
+
+## AWS Edge Locations
+
+- cache items like images, videos, and other resources, so that users can access the content they need with lower latency.
+
+## AWS CloudFormation
+
+- helps automate the deployment of your cloud resources
+- uses infrastructure as code (IaC)
+
+## Infrastructe AS Code (IaC)
+
+## Choosing AWS Regions
+
+- Four considerations for choosing a region:
+
+1. Compliance
+2. Proximity
+3. Feature Availability
+4. Pricing
