@@ -1,5 +1,9 @@
 # AWS Tutorial
 
+## AWS Regions
+
+## AWS Availability Zones (AZs)
+
 ## Virtual Machine
 
 - Uses **hypervisor** to run full, separate operating systems.
