@@ -1,8 +1,15 @@
 # AWS Tutorial
 
 ## AWS Regions
+- geographical areas around the world that are made up of multiple data centers.
+- consists of multiple, isolated locations known as Availability Zones.
+Each Region has three or more Availability Zones.
+
 
 ## AWS Availability Zones (AZs)
+- distinct locations within a Region, each designed as an independent zone with its own power, networking, and connectivity.
+- Availability Zones maintain high availability and fault tolerance for applications.
+-Each Availability Zones consists of one or more data centers.
 
 ## Virtual Machine
 
@@ -187,3 +194,10 @@
 - Content Delivery Network (CDN)
 - designed to deliver content as close to the user as possible.
 - uses Edge Locations
+
+## AWS Cloudformation
+- Iac Service that helps set up AWS resources
+- helps define Ias
+- Create Cloud formation templates
+- parses templates
+- https://aws.amazon.com/cloudformation/
